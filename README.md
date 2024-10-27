@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue2,vue3,react,solidity,viem,foundry" />
+    <img src="https://skillicons.dev/icons?i=js,ts,node,vue,react,solidity" />
   </a>
 </p>
 
