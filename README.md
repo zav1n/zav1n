@@ -19,4 +19,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
 </picture>
 
+<!--
 ![profile-3d-contrib/profile-night-green.svg](https://github.com/zav1n/zav1n/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+-->
